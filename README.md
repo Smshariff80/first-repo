@@ -1,3 +1,3 @@
 # first-repo
 this is my first repository
-author-shariff
+author-shariff mohd
